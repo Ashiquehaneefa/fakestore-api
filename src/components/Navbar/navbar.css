@@ -1,0 +1,11 @@
+.navName {
+  color: chartreuse;
+}
+
+.navContainer {
+  box-shadow: 0px 15px 10px -15px #111;
+}
+
+#logoTxt {
+  padding: 10px;
+}
